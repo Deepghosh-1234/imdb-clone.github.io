@@ -1,3 +1,5 @@
+#Deep imdb clobe
+https://deepghosh-1234.github.io/imdb-clone.github.io/
 # Mini-IMBd
 
 This is a complete Front-end based Project trying to replicate IMDb website. This project uses the TMDB API providing access to a huge database of Movies and their details.
